@@ -1,4 +1,4 @@
-FROM jdk-15-maven-node-docker-awscli:latest
+FROM openjdk
 
 WORKDIR /code
 
