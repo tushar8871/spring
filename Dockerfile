@@ -1,4 +1,4 @@
-FROM pinny3/jdk-15-maven-node-docker-awscli:latest
+FROM jdk-15-maven-node-docker-awscli:latest
 
 WORKDIR /code
 
