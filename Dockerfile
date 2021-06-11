@@ -1,4 +1,4 @@
-FROM maven as mvn
+FROM FROM maven:3.8-jdk-15
 
 WORKDIR /code
 
